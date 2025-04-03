@@ -17,7 +17,7 @@ The cleaned dataset is used for EDA using SQL and visualizations using Microsoft
 
 2. Execute the Cleaning Script
    - Open MySQL Workbench or another SQL editor.
-   - Run the script `layoffs_data_cleaning.sql`.
+   - Run the script `layoffs data cleaning.sql`.
 
 3. Verify Cleaned Data
    - Query the `layoffs_staging2` table to inspect the cleaned data
