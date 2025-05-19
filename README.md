@@ -10,8 +10,6 @@ This project focuses on cleaning and processing a layoffs dataset to ensure data
 
 The cleaned dataset is used for EDA using SQL and visualizations using Microsoft Power BI.
 
-
-📁 Project Structure
 ## How to Run the Project
 
 1. Import the Dataset into MySQL
